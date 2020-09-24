@@ -9,7 +9,7 @@ import mycompany.com.holamundomvc.model.Model;
 import mycompany.com.holamundomvc.view.View;
 
 /**
- *
+ * This is the controller class for the hello world MVC app.
  * @author Aketza
  */
 public class Controller {
